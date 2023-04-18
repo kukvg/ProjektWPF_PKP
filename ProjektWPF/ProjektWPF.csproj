@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Page1.xaml.cs" />
+    <Compile Remove="Page2.xaml.cs" />
+    <Compile Remove="Window1.xaml.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="logo.jpg" />
+    <None Remove="switch.PNG" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Page Remove="Page1.xaml" />
+    <Page Remove="Page2.xaml" />
+    <Page Remove="Window1.xaml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="logo.jpg" />
+    <Resource Include="switch.PNG" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="dane\rozklad_jazdy.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

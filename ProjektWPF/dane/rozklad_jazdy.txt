@@ -1,0 +1,5 @@
+0730. - Kluczbork 7:30 - Borkowice 7:32 - Bukowo 7:36 - Tuły 7:42 - Laskowice Oleskie 7:45 - Kały 7:52 - Jełowa 8:00 - Osowiec Przystanek 8:05 - Kotórz Mały 8:17 - Opole  8:24
+0830. - Kluczbork 8:30 - Borkowice 8:3 - Bukowo 8:36 - Tuły 8:42 - Laskowice Oleskie 8:45 - Kały 7:52 - Jełowa 8:00 - Osowiec Przystanek 9:05 - Kotórz Mały 9:17 - Opole  9:24
+0615. - Opole 6.15 - Brzeg 6:40 - Oława 6:50 - Wrocław 7:08
+0900. - Opole 9:00 - Kotórz Mały 9:07 - Osowiec Przystanek 9:19 - Jełowa 9:45
+1023. - Miasto start 10:23 - Miasto test 10:55 - Docelowe 11:23
